@@ -9,7 +9,8 @@ This project requires Python 3.x and the installation of [Anaconda](https://www.
 
 ## File Descriptions
 data_original.csv in the folder is the data for use.<br/>
-predict_shape.ipynb is the main file containing the code and analysis.
+predict_shape.ipynb is the main file containing the code and analysis.<br/>
+figs folder includes all the figures related.
 
 ## Summary
 * PCA gives an overall accuracy around 94%, but it fails in classifying shape 2.
